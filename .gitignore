@@ -1,1 +1,4 @@
 build/
+filtered-results.json
+/results.json
+/verascan
